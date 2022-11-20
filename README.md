@@ -1,6 +1,6 @@
 # Maximum-Flow-Problem
 
-summary explanations: https://en.wikipedia.org/wiki/Maximum_flow_problem
+abstract explanations: https://en.wikipedia.org/wiki/Maximum_flow_problem
 
 ![phpb3jxos - Kopya](https://user-images.githubusercontent.com/68849018/202928433-d641e362-e810-4e6d-a17b-d5c1eb322fc7.jpg)
 
